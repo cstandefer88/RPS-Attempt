@@ -1,0 +1,12 @@
+function getPlayerMove(move) {
+    var move = ("rock" || "paper" || "scissors");
+    if (move = "rock" || "paper" || "scissors") {
+    return move || getInput();
+}
+}
+function getComputerMove(move) {
+     var move = ("rock" || "paper" || "scissors");
+    if (move = "rock" || "paper" || "scissors") {
+    return move || randomPlay();
+}
+}
